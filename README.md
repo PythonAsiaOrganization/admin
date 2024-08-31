@@ -1,2 +1,2 @@
-# admin
-Documents for administration and running the organization
+# Administration Documents
+Documents for administration and the running of the organization
